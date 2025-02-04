@@ -1,5 +1,6 @@
 baseURL = "https://iapheus.github.io/"
 relativeURLs = "True"
+canonifyURLs = "True"
 languageCode = 'en-us'
 title = "echo 'ba2uhan's blog'"
 theme = 'ardeidae'
