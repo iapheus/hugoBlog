@@ -1,4 +1,4 @@
-baseURL = "https://iapheus.github.io/hugoBlog/"
+baseURL = "https://iapheus.github.io/"
 relativeURLs = "True"
 languageCode = 'en-us'
 title = "echo 'ba2uhan's blog'"
