@@ -4,7 +4,7 @@ draft = false
 title = "How I Use 'Samba' as a Music Streaming Solution"
 +++
 
-It was time for me to stop the ads that appeared on Spotify, which I have been using for years. Actually, I had a lot of different alternatives, like modded clients with adblock plugins, open-source frontend music applications. I tried a lot of them, but I found myself in another search, I didn't have an incredibly large music archive, they were all about ~1000 songs, and because it wouldn't take up a lot of space - I'm a little short of storage :) - I decided to host it myself. I'll talk about how I did it, what tools I used, and whether I was satisfied.
+It was time for me to stop the ads that appeared on Spotify, which I have been using for years. Actually, I had a lot of different alternatives, like modded clients with adblock plugins, open-source music applications. I tried a lot of them, but I found myself in another search, I didn't have an incredibly large music archive, they were all about ~1000 songs, and because it wouldn't take up a lot of space - I'm a little short of storage :) - I decided to host it myself. I'll talk about how I did it, what tools I used, and whether I was satisfied.
 
 ## What is 'Samba' and 'SMB' really?
 
@@ -39,6 +39,6 @@ I have tried quite a lot of tools and applications in this process to have a gre
 
 ## Final
 
-I can say that making this archive has helped me a lot. Apart from storing all my music by myself and listening to it without ads or internet whenever I want, I can continue to listen to the same archive in my car by removing my USB memory stick from the modem when I go out. During this process, the Samba feature is also turned off because I selected the "Auto On After Detecting USB Storage Plugged In" option via the modem.
+I can say that making this archive has helped me a lot. Apart from storing all my music by myself and listening to it without ads or internet whenever I want, I can continue to listen to the same archive in my car by removing my USB memory stick from the modem when I go out. During this process, the Samba feature is also turned off because I selected the "Auto On After Detecting USB Storage Plugged In" option via the modem. Hope this post is helpful to you!
 
 **\-The links and the apps I share are just for sharing information. I don’t have any ads or partnerships.\-**
