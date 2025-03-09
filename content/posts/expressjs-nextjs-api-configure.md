@@ -61,7 +61,8 @@ const networkInterfaces = os.networkInterfaces();
 
 const PORT = 5693;
 
-// If you have any WSL or other connections that may be visible under the 'Wi-Fi' section, you have to change this value to another index (1,2,3 etc...)
+// If you have any WSL or other connections that may be visible under the
+// 'Wi-Fi' section, you have to change this value to another index (1,2,3 etc...)
 
 const HOST = networkInterfaces["Wi-Fi"][0].address;
 
