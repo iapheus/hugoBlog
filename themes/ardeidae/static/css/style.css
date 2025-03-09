@@ -161,6 +161,14 @@ header {
     text-justify: inter-word;
 }
 
+#post code {
+    background-color: darkslategray;
+    border: 2px white solid;
+    text-wrap: wrap;
+    display: block;
+    padding: 3%;
+}
+
 #after-post {
     font-family: "Noto Sans", sans-serif;
     font-weight: bold;
